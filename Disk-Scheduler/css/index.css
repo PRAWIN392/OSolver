@@ -1,0 +1,27 @@
+.topop
+{
+    background-color: black;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+}
+.s-style
+{
+    font-weight: bolder;
+    font-size:x-large;
+}
+.o-style
+{
+    font-weight: 500;
+    font-size: larger;
+}
+.olver-style
+{
+    font-weight: 500;
+    font-size: larger;
+}
+.algo-text
+{
+    color: white;
+}
